@@ -92,7 +92,8 @@ I'm <strong>Oussama Oulini</strong>, a Computer Engineering student at ESMA in M
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oussamaoulini7-max/oussamaoulini7-max/output/pacman-contribution-graph.svg">
+
 </picture>
 
 ###
